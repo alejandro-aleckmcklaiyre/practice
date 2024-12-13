@@ -24,8 +24,6 @@ def main_menu():
         elif choice == '4':
             gomez.menu()
 
-        elif choice == '5':
-            mosenos.mosenos_info()  
 
         elif choice == '6':
             print("\nExiting program.\n")
